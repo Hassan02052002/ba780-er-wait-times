@@ -18,6 +18,8 @@ All three datasets are U.S. government public data.
 
 ## Notebook
 
+[Open in Google Colab](https://colab.research.google.com/github/Hassan02052002/ba780-er-wait-times/blob/main/A04-ER-Wait-Times-US-Hospitals.ipynb)
+
 `A04-ER-Wait-Times-US-Hospitals.ipynb` loads the data directly from this repository, so it runs as-is in Google Colab or Jupyter (**Runtime / Kernel → Restart & Run All**). It contains:
 
 1. **ED wait times and crowding** (CMS Timely and Effective Care)
